@@ -1,6 +1,7 @@
 {
   "name": "colortest",
   "main": "colortest.sh",
+  "bin": "colortest",
   "description": "Quickly show all your terminal colors",
   "version": "1.0.0",
   "author": "Pablo Varela <pablovarela182@gmail.com>",
