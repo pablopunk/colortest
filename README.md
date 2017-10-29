@@ -24,6 +24,7 @@ npm install -g colortest
 $ colortest
 ```
 
+![shot](https://github.com/pablopunk/art/raw/master/colortest/screenshot.png)
 
 ## License
 
