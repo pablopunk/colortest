@@ -27,7 +27,7 @@ $ colortest
 
 ## License
 
-The script original code can be found [here](https://unix.stackexchange.com/a/213471)
+The original code can be found [here](https://unix.stackexchange.com/a/213471)
 
 
 ## Author
