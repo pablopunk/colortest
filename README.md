@@ -9,6 +9,7 @@
   <i>Quickly show all your terminal colors</i>
 </p>
 
+The script original code can be
 
 ## Install
 
@@ -26,7 +27,7 @@ $ colortest
 
 ## License
 
-MIT
+The script original code can be found [here](https://unix.stackexchange.com/a/213471)
 
 
 ## Author
