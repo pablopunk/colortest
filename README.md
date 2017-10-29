@@ -9,7 +9,6 @@
   <i>Quickly show all your terminal colors</i>
 </p>
 
-The script original code can be
 
 ## Install
 
