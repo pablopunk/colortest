@@ -1,0 +1,34 @@
+{
+  "name": "colortest",
+  "main": "colortest.sh",
+  "description": "Quickly show all your terminal colors",
+  "version": "1.0.0",
+  "author": "Pablo Varela <pablovarela182@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/pablopunk/colortest/issues",
+    "email": "pablovarela182@gmail.com"
+  },
+  "contributors": [
+    "Pablo Varela <pablovarela182@gmail.com>"
+  ],
+  "homepage": "https://github.com/pablopunk/colortest",
+  "keywords": [
+    "miny",
+    "color",
+    "test",
+    "colortest",
+    "tests",
+    "colors",
+    "bash",
+    "terminal",
+    "cli",
+    "command",
+    "line",
+    "tool"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pablopunk/colortest"
+  }
+}
