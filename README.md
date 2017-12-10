@@ -12,6 +12,8 @@
 
 ## Install
 
+You need `bash` for execution and and `npm` for installation:
+
 ```sh
 npm install -g colortest
 ```
