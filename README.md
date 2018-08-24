@@ -12,12 +12,13 @@
 
 ## Install
 
-You need `bash` for execution and and `npm` for installation:
+You need `bash` for execution and `npm` for installation.
 
 ```sh
 npm install -g colortest
 ```
 
+You could also do it without `npm`. Just download [the script](https://github.com/pablopunk/colortest/blob/master/colortest) and execute it.
 
 ## Usage
 
