@@ -28,6 +28,13 @@ $ colortest
 
 ![shot](https://github.com/pablopunk/art/raw/master/colortest/screenshot.png)
 
+# Related
+
+* Hyper theme: [hyper-native-dark](https://github.com/pablopunk/hyper-native-dark)
+* NPM package generator: [miny](https://github.com/pablopunk/miny)
+* Fast bash propmt: [bashy](https://github.com/pablopunk/bashy)
+* Fast and lightweight tests: [myass](https://github.com/pablopunk/myass)
+
 ## License
 
 The original code can be found [here](https://unix.stackexchange.com/a/213471)
