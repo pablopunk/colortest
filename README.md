@@ -12,21 +12,16 @@
 
 ## Install
 
-You need `bash` for execution and `npm` for installation.
+You need to have `bash` and `npm` installed.
 
-```sh
-npm install -g colortest
-```
-
-You could also do it without `npm`. Just download [the script](https://github.com/pablopunk/colortest/blob/master/colortest) and execute it.
-
-## Usage
-
-```sh
-$ colortest
+```bash
+$ npx colortest
 ```
 
 ![shot](https://github.com/pablopunk/art/raw/master/colortest/screenshot.png)
+
+You could also do it without `npm`. Just download [the script](https://github.com/pablopunk/colortest/blob/master/colortest) and execute it.
+
 
 # Related
 
