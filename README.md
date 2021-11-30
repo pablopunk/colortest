@@ -25,7 +25,7 @@ You could also do it without `npm`. Just download [the script](https://github.co
 
 # Related
 
-More at [pablo.pink](https://pablo.pink/)
+More at [pablopunk.com](https://pablopunk.com/)
 
 * Quickly test true color support: [truecolor](https://github.com/pablopunk/truecolor)
 * Hyper theme: [hyper-native-dark](https://github.com/pablopunk/hyper-native-dark)
