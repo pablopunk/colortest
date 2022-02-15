@@ -37,7 +37,7 @@ More at [pablopunk.com](https://pablopunk.com/)
 
 [MIT](./LICENSE).
 
-The original code can be found [here](https://unix.stackexchange.com/a/213471).
+The original code can be found [here](https://tldp.org/HOWTO/Bash-Prompt-HOWTO/x329.html).
 
 
 ## Author
