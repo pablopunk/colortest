@@ -35,7 +35,9 @@ More at [pablopunk.com](https://pablopunk.com/)
 
 ## License
 
-The original code can be found [here](https://unix.stackexchange.com/a/213471)
+[MIT](./LICENSE).
+
+The original code can be found [here](https://unix.stackexchange.com/a/213471).
 
 
 ## Author
