@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# https://unix.stackexchange.com/a/213471
+# https://tldp.org/HOWTO/Bash-Prompt-HOWTO/x329.html
 
 T='gYw'   # The test text
 
