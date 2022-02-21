@@ -12,15 +12,53 @@
 
 ## Install
 
-You need to have `bash` and `npm` installed.
+<details>
+<summary>`dnf`</summary>
+
+> Since v3.0.5, `colortest` conforms to Fedora packaging standards
+
+If you're using Fedora or any other distribution with the `dnf` package manager:
+
+```bash
+$ sudo dnf install colortest
+```
+
+And use it:
+
+```bash
+$ colortest
+```
+
+❌ To uninstall it:
+
+```
+$ sudo dnf remove colortest
+```
+
+</details>
+
+<details>
+<summary>`npm`</summary>
+
+If you have npm installed, you can either install it globally or use it directly with `npx`:
 
 ```bash
 $ npx colortest
 ```
 
-![shot](https://github.com/pablopunk/art/raw/master/colortest/screenshot.png)
+</details>
 
-You could also do it without `npm`. Just download [the script](https://github.com/pablopunk/colortest/blob/master/colortest) and execute it.
+<details>
+<summary>Manually</summary>
+
+Alternatively, you can download and run [the script](https://raw.githubusercontent.com/pablopunk/colortest/master/colortest) from your bash prompt.
+
+</details>
+
+
+## Output
+
+![shot](https://github.com/pablopunk/art/raw/master/colortest/screenshot.png)
 
 
 # Related
