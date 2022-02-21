@@ -5,7 +5,7 @@
     "colortest": "colortest"
   },
   "description": "Quickly show all your terminal colors",
-  "version": "3.0.6",
+  "version": "3.0.7",
   "author": "Pablo Varela <pablovarela182@gmail.com>",
   "bugs": {
     "url": "https://github.com/pablopunk/colortest/issues",
