@@ -13,7 +13,7 @@
 ## Install
 
 <details>
-<summary>`dnf`</summary>
+  <summary><code>dnf</code></summary>
 
 > Since v3.0.5, `colortest` conforms to Fedora packaging standards
 
@@ -38,7 +38,7 @@ $ sudo dnf remove colortest
 </details>
 
 <details>
-<summary>`npm`</summary>
+  <summary><code>npm</code></summary>
 
 If you have npm installed, you can either install it globally or use it directly with `npx`:
 
